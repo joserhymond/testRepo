@@ -1,1 +1,7 @@
 twingle twingle little star
+
+JDK Transition (OpenJDK End of Life in October 2024)
+Description: OpenJDK 11 will reach its end of life in October 2024.
+Recommendation: We recommend transitioning to JDK 1.8 as a proactive measure.
+Benefits: This ensures a smooth upgrade process as we add support for JDK 21 in 2025.
+Action Required: Please note that our third-party support matrix will be updated to reflect OpenJDK 11's end-of-life status.
